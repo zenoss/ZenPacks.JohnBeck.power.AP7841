@@ -5,7 +5,7 @@
 NAME = "ZenPacks.JohnBeck.power.AP7841"
 VERSION = "1.0"
 AUTHOR = "John Beck"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.JohnBeck', 'ZenPacks.JohnBeck.power']
 PACKAGES = ['ZenPacks', 'ZenPacks.JohnBeck', 'ZenPacks.JohnBeck.power','ZenPacks.JohnBeck.power.AP7841']
 INSTALL_REQUIRES = []
